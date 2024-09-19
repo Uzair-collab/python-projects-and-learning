@@ -6,7 +6,7 @@ if (actual_sale > actual_cost):
     print("profit:", profit)
 else:
     loss = actual_cost - actual_sale
-    print("loss:", loss)
+    print("loss: ", loss) 
 
 
 
